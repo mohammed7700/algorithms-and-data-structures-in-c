@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "adjacencylist.h": "c",
+        "dlinkedlist.h": "c",
+        "adjacencymatrix.h": "c"
+    }
+}
